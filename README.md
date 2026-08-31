@@ -2,7 +2,6 @@
 ## Grace Borchers
 I am currently a freshman in the Information Technology and Cybersecurity program.
 During my senior year of High School, I participated in a programming class and created my own budget calculator in Python. 
-I made some edits in class.
 
 <!--
 **Grace-Borchers/Grace-Borchers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
