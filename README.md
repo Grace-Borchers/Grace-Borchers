@@ -1,6 +1,7 @@
 ## Hi there 👋
 ## Grace Borchers
 I am currently a freshman in the Information Technology and Cybersecurity program.
+
 During my senior year of High School, I participated in a programming class and created my own budget calculator in Python. 
 
 <!--
